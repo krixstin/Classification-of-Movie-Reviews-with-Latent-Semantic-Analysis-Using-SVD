@@ -1,2 +1,4 @@
 # Classification-of-Movie-Reviews-with-Latent-Semantic-Analysis-Using-SVD
 Natural Language Processing(NLP) is a broad set of techniques to derive meaning from words in a dataset. In this paper, we will cover one of the NLP techniques, the Latent Semantic Analysis technique. This is a part of unsupervised learning techniques in which models are not supervised using the training datasets, but instead, find the hidden patterns and insights from the given data. The main benefit of this technique is that the process can reduce the dimensionality of the original text-based data set which will be the movie review data set obtained from Kaggle in this project.
+
+[Presentation on Zoom](https://stevens.zoom.us/rec/play/ZDGYHZF8CjVtmMff6pBIYOCgKaCQxq25MxlddLKyCSSgHkxVHprIXqhm0r3FN7iTLIFfkPcQNFaz06Vb.7d0_-_UUg7Vtj_W5?autoplay=true&startTime=1651356842000)
